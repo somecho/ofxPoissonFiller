@@ -1,11 +1,13 @@
 # ofxPoissonFiller
 
+
 An OpenFrameworks addon for poisson filling based on convolution pyramids
 ([Farbman et al,
 2011](https://pages.cs.huji.ac.il/danix-lab/cglab/projects/convpyr/)).
 
-This add on is header only, inspired by [ofxPoissonFill](https://github.com/LingDong-/ofxPoissonFill), but unlike ofxPoissonFill, uses GL_RGBA32F textures.
+https://github.com/somecho/ofxPoissonFiller/assets/26333602/c45370d8-e3ae-411e-be8f-86a69301a673
 
+This add on is header only, inspired by [ofxPoissonFill](https://github.com/LingDong-/ofxPoissonFill), but unlike ofxPoissonFill, uses GL_RGBA32F textures.
 
 ## Usage
 
